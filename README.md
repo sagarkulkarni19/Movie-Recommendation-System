@@ -1,6 +1,12 @@
 # Movie-Recommendation-System
 
-Dataset used : tmdb-5000-movie-dataset
+Packages required:
+- pandas
+- numpy
+- seaborn
+- matplotlib
+
+Dataset used : tmdb-5000-movie-dataset, movielens
 
 ### Data analysis and visualization:
 
