@@ -1,2 +1,6 @@
 # Movie-Recommendation-System
-Sample recommendation system for movie dataset
+
+First we will do some data visualization for some interesting results like these:
+
+![WordCloud](Word-cloud.png)
+
