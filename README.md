@@ -2,7 +2,7 @@
 
 Dataset used : tmdb-5000-movie-dataset
 
-## Data analysis and visualization:
+### Data analysis and visualization:
 
 ![WordCloud](Figures/Word-cloud.png)
 
